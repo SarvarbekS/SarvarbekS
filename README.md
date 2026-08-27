@@ -24,7 +24,7 @@ I'm a data science student at **Hanyang University**, passionate about deep lear
 - 🌐 I build and **deploy full-stack web applications** with custom domains and hosting
 - 🎯 Interested in ML research, computer vision, and applying for research fellowships
 
-Feel free to explore my work in the **[Repositories](https://github.com/pfrsam?tab=repositories)** section.
+Feel free to explore my work in the **[Repositories](https://github.com/SarvarbekS?tab=repositories)** section.
 
 ---
 
